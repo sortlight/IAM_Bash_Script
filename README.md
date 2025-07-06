@@ -38,24 +38,41 @@ This repo demonstrates how I:
 
 ---
 
-## 🎯 Who This Is For
+##  Who This Is For
 
 - Cybersecurity recruiters looking for practical skills
 - DevOps & IAM engineers needing reusable scripts
 - Hackers & builders who respect access boundaries
-- Anyone curious how Linux and faith meet at the terminal 🕊️
+- Anyone curious how Linux and faith meet at the terminal 
 
----
+GitHub Actions Included
+Each script is tested via CI using ShellCheck to ensure clean, portable Bash:
 
-## 🛠️ Getting Started
+'''yaml
 
-```bash
-# Clone this repo
-git clone https://github.com/YOUR_USERNAME/iam-bash-scripts.git
-cd iam-bash-scripts
+     > .github/workflows/bash-test.yml
 
-# Make a script executable
-chmod +x scripts/user-provisioning/user_provision.sh
+My Twist on IAM
+“Whoever is faithful with little will be ruler over much.” – Luke 16:10
 
-# Run it
-./scripts/user-provisioning/user_provision.sh
+This repo is more than code. It’s a testament to stewardship — of accounts, systems and the people behind them. Tech isn’t just technical; it’s spiritual infrastructure. Here, IAM means “I Assign Meaning.”
+
+
+# What’s Next
+
+
+Role-based group auto-assignment
+
+SSH key injection for DevOps bots
+
+Dream logger for spiritual journaling on login 
+
+Multi-cloud identity support (AWS IAM + Bash)
+
+# Let’s Connect
+Love this repo? Want me to build IAM scripts for your org, bot or brand?
+
+DM me on [X](x.com/sortsec) or [LinkedIn](www.linkedin.com/ganiyusortput) — or fork this repo and build your own kingdom of command.
+
+
+
