@@ -25,8 +25,9 @@ It then logs the findings in a report so you or your team can take action.
 ```bash
 chmod +x permission_auditor.sh
 ./permission_auditor.sh
+```
 
- Output will be saved to: perms_report.txt
+* Output will be saved to: perms_report.txt
 
 ## Skills Showcased
 
@@ -46,7 +47,7 @@ CLI security awareness
 identifying cracks in the wall before attackers do. IAM is more than provisioning users. It's about maintaining the integrity of what they access.
 
 
-# Improvements You Can Add
+# Improvements To Add
 
 Scan other dirs: /var/www, /etc, /mnt/data
 
@@ -57,6 +58,7 @@ Flag executable 777 files only
 Build a cleanup prompt or automated fixer
 
 
-Crafted by [SortSec](x.com/sortsec) for practical IAM security.
+# Crafted by: 
+[SortSec](x.com/sortsec) for practical IAM security.
 
 Feel free to fork and extend for your org or cloud stack.
