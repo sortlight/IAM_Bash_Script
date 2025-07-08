@@ -40,7 +40,6 @@ This repo demonstrates how I:
 
 ##  Who This Is For
 
-- Cybersecurity recruiters looking for practical skills
 - DevOps & IAM engineers needing reusable scripts
 - Hackers & builders who respect access boundaries
 - Anyone curious how Linux and faith meet at the terminal 
@@ -72,7 +71,7 @@ Multi-cloud identity support (AWS IAM + Bash)
 # Let’s Connect
 Love this repo? Want me to build IAM scripts for your org, bot or brand?
 
-DM me on [X](x.com/sortsec) or [LinkedIn](www.linkedin.com/ganiyusortput) — or fork this repo and build your own kingdom of command.
+DM me on [X](x.com/sortsec) or [LinkedIn](www.linkedin.com/ganiyusortput)  or fork this repo and build your own kingdom of command.
 
 
 
