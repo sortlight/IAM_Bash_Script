@@ -1,9 +1,9 @@
-# 📋 Access Log Analyzer  
+#  Access Log Analyzer  
 **Catch the intruders before they catch you slipping.**
 
 ---
 
-### 🔐 Purpose
+###  Purpose
 
 This little Bash beauty is my custom-built **Access Log Analyzer** — a script designed to sniff out **failed login attempts** on a Linux system using `auth.log`.
 
@@ -11,7 +11,7 @@ Whether you're chasing down brute-force bots, testing security posture, or just 
 
 ---
 
-### 🚀 What It Does
+### What It Does
 
 - ✅ Scans `auth.log` (or any custom log) for failed SSH login attempts  
 - ✅ Parses out the **date**, **username**, and **IP address**  
@@ -21,7 +21,7 @@ Whether you're chasing down brute-force bots, testing security posture, or just 
 
 ---
 
-### 🧠 What You'll Learn or Showcase
+###  What You'll Learn or Showcase
 
 - Real Linux log parsing
 - Using `grep` + `awk` for clean data extraction
@@ -30,20 +30,20 @@ Whether you're chasing down brute-force bots, testing security posture, or just 
 
 ---
 
-### 📦 Files Included
+###  Files Included
 
 | File | Description |
 |------|-------------|
 | `access_log_analyzer.sh` | The main Bash script you’ll run |
 | `sample_auth.log`        | A fake log file for testing offline |
 | `failed_logins.txt`      | Output log generated after running the script |
-| `README.md`              | You're reading it 😎 |
+| `README.md`              | You're reading it |
 
 ---
 
 ### ⚙️ How to Use
 
-#### 🔁 Offline (For Testing or Demos)
+####  Offline (For Testing or Demos)
 
 ```bash
 chmod +x access_log_analyzer.sh
