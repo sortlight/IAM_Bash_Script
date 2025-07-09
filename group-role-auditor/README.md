@@ -24,29 +24,30 @@ This Bash script performs a lightweight audit of your system’s **user → grou
 
 Check the results in:
 
-'''Bash
-   > cat group_audit_report.txt
+``` Bash
+      > cat group_audit_report.txt
 
-
+```
 ## Why It Matters
 
-    In IAM, it's easy to forget who has access to what. This tool provides clarity — exposing who belongs to sudo, docker, or admin groups so you can trim back unnecessary privilege.
+ In IAM, it's easy to forget who has access to what. This tool provides clarity — exposing who belongs to sudo, docker, or admin groups so you can trim back unnecessary privilege.
 
 ## Skills Showcased
 
-    Parsing /etc/passwd securely
+   Parsing /etc/passwd securely
 
-    Using id -nG for clean group lookup
+   Using id -nG for clean group lookup
 
-    Bash scripting best practices
+   Bash scripting best practices
 
-    Access auditing and IAM governance
+   Access auditing and IAM governance
 
 ## Devotion to Digital Stewardship
     
-    “To whom much is given, much will be audited.” – SortSec
+   “To whom much is given, much will be audited.” – SortSec
 
-This script is a checkup tool — a diagnostic for IAM hygiene. It’s how I put watchfulness into code. Every entry in a group is a trust. Let’s audit it.
+
+This script is a checkup tool which is a diagnostic for IAM hygiene. It’s how I put watchfulness into code. Every entry in a group is a trust. Let’s audit it.
 
 
 ## Credit
