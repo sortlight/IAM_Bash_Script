@@ -34,7 +34,7 @@ Check the results in:
 
  ## Demo Output
 
-![Screenshot](Screenshot 2025-07-08 164903.png)
+![Screenshot](group-role-auditor/Screenshot%202025-07-08%20164903.png')
 
 ## Skills Showcased
 
