@@ -46,9 +46,9 @@ Check the results in:
 
    Access auditing and IAM governance
 
-## Devotion to Digital Stewardship
+## Devotion 
     
-   “To whom much is given, much will be audited.” – SortSec
+   “To whom much is given, much will be audited.” – SortSec 
 
 
 This script is a checkup tool which is a diagnostic for IAM hygiene. It’s how I put watchfulness into code. Every entry in a group is a trust. Let’s audit it.
