@@ -25,7 +25,7 @@ This Bash script performs a lightweight audit of your system’s **user → grou
 Check the results in:
 
 ``` Bash
-      > cat group_audit_report.txt
+       cat group_audit_report.txt
 
 ```
 ## Why It Matters
