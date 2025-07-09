@@ -32,6 +32,10 @@ Check the results in:
 
  In IAM, it's easy to forget who has access to what. This tool provides clarity — exposing who belongs to sudo, docker, or admin groups so you can trim back unnecessary privilege.
 
+ ## Demo Output
+
+![Screenshot](Screenshot 2025-07-08 164903.png)
+
 ## Skills Showcased
 
    Parsing /etc/passwd securely
