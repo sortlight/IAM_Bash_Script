@@ -22,7 +22,7 @@ But more than that, it reflects my **approach to tech with intention, precision 
 | 2️⃣ | [Permission Auditor](permission_auditor) | Detect world-writable files and generate a security report | `find`, file perms, least privilege |
 | 3️⃣ | [Access Log Analyzer](access-log-analyzer) | Parse failed login attempts from `/var/log/auth.log` | `grep`, `awk`, log analysis |
 | 4️⃣ | Group & Role Auditor | List all users and their group/role mappings | `/etc/passwd`, loops, `groups` |
-| 5️⃣ | Inactive Account Cleaner | Remove users who haven’t logged in for X days | `lastlog`, `userdel`, lifecycle policies |
+| 5️⃣ | [Inactive Account Cleaner](inactive_account_cleaner) | Remove users who haven’t logged in for X days | `lastlog`, `userdel`, lifecycle policies |
 
 ---
 
