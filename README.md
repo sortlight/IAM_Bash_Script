@@ -44,14 +44,10 @@ This repo demonstrates how I:
 - Hackers & builders who respect access boundaries
 - Anyone curious how Linux and faith meet at the terminal 
 
-GitHub Actions Included
-Each script is tested via CI using ShellCheck to ensure clean, portable Bash:
 
-'''yaml
 
-     > .github/workflows/bash-test.yml
+# My Twist on IAM
 
-My Twist on IAM
 “Whoever is faithful with little will be ruler over much.” – Luke 16:10
 
 This repo is more than code. It’s a testament to stewardship — of accounts, systems and the people behind them. Tech isn’t just technical; it’s spiritual infrastructure. Here, IAM means “I Assign Meaning.”
@@ -69,6 +65,7 @@ Dream logger for spiritual journaling on login
 Multi-cloud identity support (AWS IAM + Bash)
 
 # Let’s Connect
+
 Love this repo? Want me to build IAM scripts for your org, bot or brand?
 
 DM me on [X](x.com/sortsec) or [LinkedIn](www.linkedin.com/ganiyusortput)  or fork this repo and build your own kingdom of command.
